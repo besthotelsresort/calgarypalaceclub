@@ -1,0 +1,2 @@
+# calgarypalaceclub
+Static site: calgarypalaceclub
